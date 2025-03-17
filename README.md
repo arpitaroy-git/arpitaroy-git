@@ -1,4 +1,4 @@
-👋 Hi, I’m Arpita Roy 
+👋 Hi, I’m Arpita Roy
 👀 I’m interested in UI/UX Design, Frontend Development, and Cloud Technologies.  
 🌱 I’m currently learning React Native and Google Cloud.  
 💞️ I’m looking to collaborate on UI/UX design projects, mobile app development, and cloud-based applications.  
