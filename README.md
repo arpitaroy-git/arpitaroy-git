@@ -1,10 +1,10 @@
-- 👋 Hi, I’m Arpita Roy 
-- 👀 I’m interested in UI/UX Design, Frontend Development, and Cloud Technologies.  
-- 🌱 I’m currently learning React Native and Google Cloud.  
-- 💞️ I’m looking to collaborate on UI/UX design projects, mobile app development, and cloud-based applications.  
-- 📫 How to reach me: mail - arpita@jobcode.in | LinkedIn - [@arpitacoder](https://www.linkedin.com/in/arpitacoder)  
-- 😄 Pronouns: She/Her  
-- ⚡ Fun fact: I love creating aesthetically pleasing designs and turning them into functional user interfaces!
+👋 Hi, I’m Arpita Roy 
+👀 I’m interested in UI/UX Design, Frontend Development, and Cloud Technologies.  
+🌱 I’m currently learning React Native and Google Cloud.  
+💞️ I’m looking to collaborate on UI/UX design projects, mobile app development, and cloud-based applications.  
+📫 How to reach me: mail - arpita@jobcode.in | LinkedIn - [@arpitacoder](https://www.linkedin.com/in/arpitacoder)  
+😄 Pronouns: She/Her  
+Fun fact: I love creating aesthetically pleasing designs and turning them into functional user interfaces!
 
 - 
 ## 🌐 Socials:
